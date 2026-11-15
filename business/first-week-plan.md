@@ -2,7 +2,7 @@
 
 ## Objective
 
-Validate whether small businesses will pay for clear, affordable promotional graphics and captions. The first milestone is one paid pilot order, not follower count or website traffic.
+Validate whether businesses and brands will pay for clear, affordable promotional graphics and captions. The first milestone is one paid pilot order, not follower count or website traffic.
 
 ## Day 1 — Make the offer real
 - Confirm contact channel and payment method.
