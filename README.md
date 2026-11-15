@@ -1,16 +1,16 @@
 # PromoPilot TT
 
-A small-business social media promotion service starting in Trinidad and Tobago.
+A social media promotion service for businesses and brands in Trinidad and Tobago.
 
-**Positioning:** Affordable, clear, ready-to-post promotional content for small businesses.
+**Positioning:** Affordable, clear, ready-to-post promotional content for businesses, brands and entrepreneurs.
 
 ## Current offer (proposed introductory pricing)
 
 | Package | Deliverables | Proposed price |
 |---|---|---:|
-| Starter | 3 graphics + 3 captions + 1 revision round | TT$150 |
-| Growth | 8 graphics + 8 captions + 2 revision rounds | TT$350 |
-| Monthly | 12 graphics + 12 captions + simple content plan + 2 revision rounds | TT$500 |
+| Starter | 3 graphics + 3 captions + 1 revision round | TT$100 |
+| Growth | 8 graphics + 8 captions + 2 revision rounds | TT$250 |
+| Monthly | 12 graphics + 12 captions + simple content plan + 2 revision rounds | TT$400 |
 
 These are test prices, not validated market rates. Confirm scope, turnaround, revisions and payment terms in writing before accepting an order. Do not promise engagement, reach, sales or specific business results.
 
@@ -46,5 +46,5 @@ The enquiry form currently prepares and copies a message locally. It does **not*
 - [ ] Test the website on mobile and desktop.
 - [ ] Publish through GitHub Pages.
 - [ ] Prepare 3 sample graphics as downloadable portfolio images.
-- [ ] Contact a small, relevant list of businesses with personalized messages.
+- [ ] Contact a relevant list of businesses with personalized messages.
 - [ ] Record replies, objections and paid conversions to validate pricing.
