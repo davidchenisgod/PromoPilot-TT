@@ -14,10 +14,15 @@ document.querySelectorAll("[data-package]").forEach(link => link.addEventListene
   if (select) select.value = link.dataset.package;
 }));
 document.querySelector("#year").textContent = new Date().getFullYear();
+
 const form = document.querySelector("#enquiry-form");
 const note = document.querySelector("#form-note");
-form?.addEventListener("submit", async event => {
+const whatsappNumber = "18687138319";
+
+form?.addEventListener("submit", event => {
   event.preventDefault();
+  if (!form.reportValidity()) return;
+
   const data = new FormData(form);
   const message = [
     "Hello PromoPilot TT! I'd like to enquire about your services.",
@@ -28,11 +33,8 @@ form?.addEventListener("submit", async event => {
     "Package: " + data.get("package"),
     "What I'd like to promote: " + (data.get("details") || "I'd like to discuss this.")
   ].join("\n");
-  try {
-    await navigator.clipboard.writeText(message);
-    note.textContent = "Enquiry copied! Paste it into your preferred messaging app to send it to PromoPilot TT. Our contact channel will be published here shortly.";
-  } catch {
-    note.textContent = "Your enquiry is ready below. Copy the text and send it through your preferred messaging app once our contact channel is published.";
-    window.prompt("Copy your enquiry:", message);
-  }
+
+  const whatsappUrl = "https://wa.me/" + whatsappNumber + "?text=" + encodeURIComponent(message);
+  window.open(whatsappUrl, "_blank", "noopener,noreferrer");
+  note.textContent = "WhatsApp should open with your enquiry ready. Please press Send in WhatsApp to deliver it to PromoPilot TT.";
 });
