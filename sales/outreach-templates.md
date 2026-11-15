@@ -4,7 +4,7 @@ Use these as starting points. Personalize each message and contact businesses th
 
 ## First message
 
-Hi [business name]! I came across your page and wanted to introduce PromoPilot TT. We create affordable promotional graphics and ready-to-post captions for small businesses in Trinidad & Tobago.
+Hi [business name]! I came across your page and wanted to introduce PromoPilot TT. We create affordable promotional graphics and ready-to-post captions for businesses and brands in Trinidad & Tobago.
 
 We're opening a few introductory slots and I thought your [specific product/service/post] could work well with a fresh promo design.
 
@@ -14,9 +14,9 @@ Would you be interested in seeing a sample concept or our package details? No pr
 
 Thanks for asking! Our proposed introductory packages are:
 
-- Starter: 3 graphics + 3 captions — TT$150
-- Growth: 8 graphics + 8 captions — TT$350
-- Monthly: 12 graphics + 12 captions + a simple content plan — TT$500
+- Starter: 3 graphics + 3 captions — TT$100
+- Growth: 8 graphics + 8 captions — TT$250
+- Monthly: 12 graphics + 12 captions + a simple content plan — TT$400
 
 We'll confirm exactly what you need, the turnaround and final price before any payment or work begins.
 
